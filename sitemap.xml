@@ -2,109 +2,151 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/publications/paper/</loc>
-    <lastmod>2023-03-03T16:31:21-05:00</lastmod>
+    <loc>https://Xiye-Yang.github.io/publications/leveragekernel/</loc>
+    <lastmod>2023-03-03T20:14:28-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/leverage-effect/</loc>
-    <lastmod>2023-03-03T16:31:21-05:00</lastmod>
+    <loc>https://Xiye-Yang.github.io/tags/jump-intensity/</loc>
+    <lastmod>2023-03-03T20:37:33-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2023-03-03T17:56:18-05:00</lastmod>
+    <loc>https://Xiye-Yang.github.io/tags/leverage-effect/</loc>
+    <lastmod>2023-03-03T20:14:28-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/publications/2022-pca/</loc>
-    <lastmod>2023-03-03T16:36:21-05:00</lastmod>
+    <loc>https://Xiye-Yang.github.io/publications/newsarrival/</loc>
+    <lastmod>2023-03-03T20:37:33-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/integrated-volatility-functionals/</loc>
-    <lastmod>2023-03-03T17:56:18-05:00</lastmod>
+    <loc>https://Xiye-Yang.github.io/tags/</loc>
+    <lastmod>2023-03-03T20:37:33-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/pca/</loc>
-    <lastmod>2023-03-03T16:36:21-05:00</lastmod>
+    <loc>https://Xiye-Yang.github.io/publications/2022-pca/</loc>
+    <lastmod>2023-03-03T20:14:17-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/jump-intensity/</loc>
-    <lastmod>2023-03-03T17:46:35-05:00</lastmod>
+    <loc>https://Xiye-Yang.github.io/tags/integrated-volatility-functionals/</loc>
+    <lastmod>2023-03-03T20:14:17-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/publications/newsarrival/</loc>
-    <lastmod>2023-03-03T17:46:35-05:00</lastmod>
+    <loc>https://Xiye-Yang.github.io/tags/pca/</loc>
+    <lastmod>2023-03-03T20:14:17-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/publications/2021-semict/</loc>
-    <lastmod>2023-03-03T17:56:18-05:00</lastmod>
+    <loc>https://Xiye-Yang.github.io/publications/2021-semict/</loc>
+    <lastmod>2023-03-03T20:14:10-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://Xiye-Yang.github.io/tags/forecasting/</loc>
+    <lastmod>2023-03-03T20:13:59-05:00</lastmod>
+  </url><url>
+    <loc>https://Xiye-Yang.github.io/publications/2021-forecasting/</loc>
+    <lastmod>2023-03-03T20:13:59-05:00</lastmod>
+  </url><url>
+    <loc>https://Xiye-Yang.github.io/tags/volatlity/</loc>
+    <lastmod>2023-03-03T20:13:59-05:00</lastmod>
+  </url><url>
+    <loc>https://Xiye-Yang.github.io/publications/2020-weiqi/</loc>
+    <lastmod>2023-03-03T20:13:51-05:00</lastmod>
+  </url><url>
+    <loc>https://Xiye-Yang.github.io/tags/interest-rates/</loc>
+    <lastmod>2023-03-03T20:13:51-05:00</lastmod>
+  </url><url>
+    <loc>https://Xiye-Yang.github.io/tags/efficiency/</loc>
+    <lastmod>2023-03-03T20:13:44-05:00</lastmod>
+  </url><url>
+    <loc>https://Xiye-Yang.github.io/tags/specification-test/</loc>
+    <lastmod>2023-03-03T20:13:44-05:00</lastmod>
+  </url><url>
+    <loc>https://Xiye-Yang.github.io/publications/2020-volspectest/</loc>
+    <lastmod>2023-03-03T20:13:44-05:00</lastmod>
+  </url><url>
+    <loc>https://Xiye-Yang.github.io/tags/co-jump/</loc>
+    <lastmod>2023-03-03T20:13:36-05:00</lastmod>
+  </url><url>
+    <loc>https://Xiye-Yang.github.io/publications/2020-bookchapter/</loc>
+    <lastmod>2023-03-03T20:13:36-05:00</lastmod>
+  </url><url>
+    <loc>https://Xiye-Yang.github.io/tags/jump/</loc>
+    <lastmod>2023-03-03T20:13:36-05:00</lastmod>
+  </url><url>
+    <loc>https://Xiye-Yang.github.io/categories/</loc>
     <lastmod>2023-03-01T17:44:17-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/css/</loc>
+    <loc>https://Xiye-Yang.github.io/tags/css/</loc>
     <lastmod>2023-03-01T17:44:17-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/html/</loc>
+    <loc>https://Xiye-Yang.github.io/tags/html/</loc>
     <lastmod>2023-03-01T17:44:17-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/markdown/</loc>
+    <loc>https://Xiye-Yang.github.io/tags/markdown/</loc>
     <lastmod>2023-03-01T17:44:17-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/markdown-syntax/</loc>
+    <loc>https://Xiye-Yang.github.io/post/markdown-syntax/</loc>
     <lastmod>2023-03-01T17:44:17-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/syntax/</loc>
+    <loc>https://Xiye-Yang.github.io/categories/syntax/</loc>
     <lastmod>2023-03-01T17:44:17-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/themes/</loc>
+    <loc>https://Xiye-Yang.github.io/categories/themes/</loc>
     <lastmod>2023-03-01T17:44:17-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/privacy/</loc>
+    <loc>https://Xiye-Yang.github.io/tags/privacy/</loc>
     <lastmod>2023-03-01T17:44:17-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/rich-content/</loc>
+    <loc>https://Xiye-Yang.github.io/post/rich-content/</loc>
     <lastmod>2023-03-01T17:44:17-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/shortcodes/</loc>
+    <loc>https://Xiye-Yang.github.io/tags/shortcodes/</loc>
     <lastmod>2023-03-01T17:44:17-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/placeholder-text/</loc>
+    <loc>https://Xiye-Yang.github.io/post/placeholder-text/</loc>
     <lastmod>2023-03-01T17:44:17-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/text/</loc>
+    <loc>https://Xiye-Yang.github.io/tags/text/</loc>
     <lastmod>2023-03-01T17:44:17-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/math-typesetting/</loc>
+    <loc>https://Xiye-Yang.github.io/post/math-typesetting/</loc>
     <lastmod>2023-03-01T17:44:17-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/emoji/</loc>
+    <loc>https://Xiye-Yang.github.io/tags/emoji/</loc>
     <lastmod>2023-03-01T17:44:17-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/emoji-support/</loc>
+    <loc>https://Xiye-Yang.github.io/post/emoji-support/</loc>
     <lastmod>2023-03-01T17:44:17-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://Xiye-Yang.github.io/publications/2018-selfex/</loc>
+    <lastmod>2023-03-03T20:13:26-05:00</lastmod>
+  </url><url>
+    <loc>https://Xiye-Yang.github.io/publications/2018-mutalex/</loc>
+    <lastmod>2023-03-03T20:13:20-05:00</lastmod>
+  </url><url>
+    <loc>https://Xiye-Yang.github.io/publications/2017-leverage/</loc>
+    <lastmod>2023-03-03T20:13:05-05:00</lastmod>
+  </url><url>
+    <loc>https://Xiye-Yang.github.io/</loc>
     <lastmod>2023-03-03T14:04:22-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/index/</loc>
+    <loc>https://Xiye-Yang.github.io/tags/index/</loc>
     <lastmod>2023-03-01T17:44:17-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/ongoing-research/</loc>
+    <loc>https://Xiye-Yang.github.io/tags/ongoing-research/</loc>
     <lastmod>2023-03-03T17:35:07-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/working/</loc>
+    <loc>https://Xiye-Yang.github.io/working/</loc>
     <lastmod>2023-03-03T17:35:07-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://Xiye-Yang.github.io/post/</loc>
     <lastmod>2023-03-01T17:44:17-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/publications/</loc>
+    <loc>https://Xiye-Yang.github.io/tags/publications/</loc>
     <lastmod>2023-03-03T16:26:12-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/publications/</loc>
+    <loc>https://Xiye-Yang.github.io/publications/</loc>
     <lastmod>2023-03-03T16:26:12-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/teaching/</loc>
+    <loc>https://Xiye-Yang.github.io/tags/teaching/</loc>
     <lastmod>2023-03-03T16:51:34-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/teaching/</loc>
+    <loc>https://Xiye-Yang.github.io/teaching/</loc>
     <lastmod>2023-03-03T16:51:34-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/%E4%B8%AD%E6%96%87%E4%BB%8B%E7%BB%8D/</loc>
-    <lastmod>2023-03-03T17:32:14-05:00</lastmod>
+    <loc>https://Xiye-Yang.github.io/tags/%E4%B8%AD%E6%96%87%E7%AE%80%E4%BB%8B/</loc>
+    <lastmod>2023-03-03T20:04:06-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/%E4%B8%AD%E6%96%87/</loc>
-    <lastmod>2023-03-03T17:32:14-05:00</lastmod>
+    <loc>https://Xiye-Yang.github.io/%E4%B8%AD%E6%96%87/</loc>
+    <lastmod>2023-03-03T20:04:06-05:00</lastmod>
   </url>
 </urlset>

@@ -49,7 +49,7 @@
     
 
     
-    <link rel="canonical" href="https://example.com/teaching/" />
+    <link rel="canonical" href="https://Xiye-Yang.github.io/teaching/" />
     
 
 <script type="application/ld+json">
@@ -58,22 +58,22 @@
         "@type": "WebPage",
         "datePublished": "2023-07-20T00:00:00+00:00",
         "dateModified": "2023-03-03T16:51:34-05:00",
-        "url": "https://example.com/teaching/",
+        "url": "https://Xiye-Yang.github.io/teaching/",
         "name": "Teaching",
         "description": "\rGraduate Level Courses Financial Economics II (PhD)\r23S, 18S\rEconometrics II (Master)\r23S, 22S, 21S\rEconomic Forecasting and Big Data (master)\r22S\rApplied Econometrics for Macroeconomics (PhD)\r20F, 16F, 15F\rSeminar in Applied Econometrics (PhD)\r17S\rAdvanced Economic Statistics (PhD)\r15F\rUndergraduate Level Courses Advanced Time Series and Financial Econometrics\r20F\rEconomic Forecasting and Big Data\r19S, 18F, 18S, 17F\r",
-        "image": "https://example.com/icons/apple-touch-icon.png",
+        "image": "https://Xiye-Yang.github.io/icons/apple-touch-icon.png",
         "publisher": {
             "@type": "Organization",
             "name": "Xiye Yang",
             "logo": {
                 "@type": "ImageObject",
-                "url": "https://example.com/icons/apple-touch-icon.png"
+                "url": "https://Xiye-Yang.github.io/icons/apple-touch-icon.png"
             },
-            "url": "https://example.com/"
+            "url": "https://Xiye-Yang.github.io"
         },
         "mainEntityOfPage": {
             "@type": "WebSite",
-            "@id": "https://example.com/"
+            "@id": "https://Xiye-Yang.github.io"
         }
     }
 </script>
@@ -89,9 +89,9 @@
 
 <meta property="og:title" content="Teaching" />
 <meta property="og:description" content="Graduate Level Courses Financial Economics II (PhD)23S, 18SEconometrics II (Master)23S, 22S, 21SEconomic Forecasting and Big Data (master)22SApplied Econometrics for Macroeconomics (PhD)20F, 16F, 15FSeminar in Applied Econometrics (PhD)17SAdvanced Economic Statistics (PhD)15FUndergraduate Level Courses Advanced Time Series and Financial Econometrics20FEconomic Forecasting and Big Data19S, 18F, 18S, 17F" />
-<meta property="og:url" content="https://example.com/teaching/" />
+<meta property="og:url" content="https://Xiye-Yang.github.io/teaching/" />
 <meta property="og:site_name" content="Xiye Yang" />
-<meta property="og:locale" content="en" /><meta property="og:image" content="https://example.com/icons/apple-touch-icon.png" />
+<meta property="og:locale" content="en" /><meta property="og:image" content="https://Xiye-Yang.github.io/icons/apple-touch-icon.png" />
     <meta property="og:type" content="website" />
 
 
@@ -175,9 +175,12 @@
 
         <article class="content post h-entry" data-small-caps="true" data-align="justify" data-type="Teaching" data-toc-num="true">
 
-            <h1 class="post-title p-name">Teaching</h1>
+            <h3 class="post-title p-name">Teaching</h3>
 
             
+
+            <div class="post-description p-name">Xiye Yang</div>
+                        
 
             
                 
@@ -335,6 +338,79 @@
         
 
         
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.0/dist/katex.min.css">
+<script>
+    if (typeof renderMathInElement === 'undefined') {
+        const getScript = (options) => {
+            const script = document.createElement('script');
+            script.defer = true;
+            script.crossOrigin = 'anonymous';
+            Object.keys(options).forEach((key) => {
+                script[key] = options[key];
+            });
+            document.body.appendChild(script);
+        };
+        getScript({
+            src: 'https:\/\/cdn.jsdelivr.net\/npm\/katex@0.13.0\/dist\/katex.min.js',
+            onload: () => {
+                getScript({
+                    src: 'https:\/\/cdn.jsdelivr.net\/npm\/katex@0.13.0\/dist\/contrib\/mhchem.min.js',
+                    onload: () => {
+                        getScript({
+                            src: 'https:\/\/cdn.jsdelivr.net\/npm\/katex@0.13.0\/dist\/contrib\/auto-render.min.js',
+                            onload: () => {
+                                renderKaTex();
+                            }
+                        });
+                    }
+                });
+            }
+        });
+    } else {
+        renderKaTex();
+    }
+    function renderKaTex() {
+        renderMathInElement(
+            document.body,
+            {
+                delimiters: [
+                    {left: "$$", right: "$$", display: true},
+                    {left: "\\[", right: "\\]", display: true},
+                    {left: "$", right: "$", display: false},
+                    {left: "\\(", right: "\\)", display: false}
+                ]
+            }
+        );
+    }
+</script>
+
+
+
+
+    <script>
+    if (typeof MathJax === 'undefined') {
+        window.MathJax = {
+            loader: {
+                load: ['[tex]/mhchem']
+            },
+            
+            tex: {
+                inlineMath: {'[+]': [['$', '$']]},
+                tags: 'ams',
+                packages: {'[+]': ['mhchem']}
+            }
+        };
+        (function() {
+            const script = document.createElement('script');
+            script.src = 'https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3.1.2\/es5\/tex-mml-chtml.js';
+            script.defer = true;
+            document.head.appendChild(script);
+        })();
+    } else {
+        MathJax.texReset();
+        MathJax.typeset();
+    }
+</script>
 
 
 

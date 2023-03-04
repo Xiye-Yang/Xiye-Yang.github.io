@@ -49,7 +49,7 @@
     
 
     
-    <link rel="canonical" href="https://example.com/categories/themes/" />
+    <link rel="canonical" href="https://Xiye-Yang.github.io/categories/themes/" />
     
 
 <script type="application/ld+json">
@@ -58,22 +58,22 @@
         "@type": "WebPage",
         "datePublished": "2023-07-20T00:00:00+00:00",
         "dateModified": "2023-03-01T17:44:17-05:00",
-        "url": "https://example.com/categories/themes/",
+        "url": "https://Xiye-Yang.github.io/categories/themes/",
         "name": "Categories: themes",
         "description": "MemE is a powerful and highly customizable GoHugo theme for personal blogs.",
-        "image": "https://example.com/icons/apple-touch-icon.png",
+        "image": "https://Xiye-Yang.github.io/icons/apple-touch-icon.png",
         "publisher": {
             "@type": "Organization",
             "name": "Xiye Yang",
             "logo": {
                 "@type": "ImageObject",
-                "url": "https://example.com/icons/apple-touch-icon.png"
+                "url": "https://Xiye-Yang.github.io/icons/apple-touch-icon.png"
             },
-            "url": "https://example.com/"
+            "url": "https://Xiye-Yang.github.io"
         },
         "mainEntityOfPage": {
             "@type": "WebSite",
-            "@id": "https://example.com/"
+            "@id": "https://Xiye-Yang.github.io"
         }
     }
 </script>
@@ -89,9 +89,9 @@
 
 <meta property="og:title" content="Categories: themes" />
 <meta property="og:description" content="MemE is a powerful and highly customizable GoHugo theme for personal blogs." />
-<meta property="og:url" content="https://example.com/categories/themes/" />
+<meta property="og:url" content="https://Xiye-Yang.github.io/categories/themes/" />
 <meta property="og:site_name" content="Xiye Yang" />
-<meta property="og:locale" content="en" /><meta property="og:image" content="https://example.com/icons/apple-touch-icon.png" />
+<meta property="og:locale" content="en" /><meta property="og:image" content="https://Xiye-Yang.github.io/icons/apple-touch-icon.png" />
     <meta property="og:type" content="website" />
 
 
@@ -211,7 +211,7 @@
         
             <li class="list-item">
                 <a href="/post/markdown-syntax/" class="list-item-title">Markdown Syntax Guide</a>
-                <time datetime="2019-03-11T00:00:00&#43;00:00" class="list-item-time">March 11</time>
+                
             </li>
         
         
@@ -249,6 +249,79 @@
         
 
         
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.0/dist/katex.min.css">
+<script>
+    if (typeof renderMathInElement === 'undefined') {
+        const getScript = (options) => {
+            const script = document.createElement('script');
+            script.defer = true;
+            script.crossOrigin = 'anonymous';
+            Object.keys(options).forEach((key) => {
+                script[key] = options[key];
+            });
+            document.body.appendChild(script);
+        };
+        getScript({
+            src: 'https:\/\/cdn.jsdelivr.net\/npm\/katex@0.13.0\/dist\/katex.min.js',
+            onload: () => {
+                getScript({
+                    src: 'https:\/\/cdn.jsdelivr.net\/npm\/katex@0.13.0\/dist\/contrib\/mhchem.min.js',
+                    onload: () => {
+                        getScript({
+                            src: 'https:\/\/cdn.jsdelivr.net\/npm\/katex@0.13.0\/dist\/contrib\/auto-render.min.js',
+                            onload: () => {
+                                renderKaTex();
+                            }
+                        });
+                    }
+                });
+            }
+        });
+    } else {
+        renderKaTex();
+    }
+    function renderKaTex() {
+        renderMathInElement(
+            document.body,
+            {
+                delimiters: [
+                    {left: "$$", right: "$$", display: true},
+                    {left: "\\[", right: "\\]", display: true},
+                    {left: "$", right: "$", display: false},
+                    {left: "\\(", right: "\\)", display: false}
+                ]
+            }
+        );
+    }
+</script>
+
+
+
+
+    <script>
+    if (typeof MathJax === 'undefined') {
+        window.MathJax = {
+            loader: {
+                load: ['[tex]/mhchem']
+            },
+            
+            tex: {
+                inlineMath: {'[+]': [['$', '$']]},
+                tags: 'ams',
+                packages: {'[+]': ['mhchem']}
+            }
+        };
+        (function() {
+            const script = document.createElement('script');
+            script.src = 'https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3.1.2\/es5\/tex-mml-chtml.js';
+            script.defer = true;
+            document.head.appendChild(script);
+        })();
+    } else {
+        MathJax.texReset();
+        MathJax.typeset();
+    }
+</script>
 
 
 
