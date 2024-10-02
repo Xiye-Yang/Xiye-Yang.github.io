@@ -2,13 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://Xiye-Yang.github.io/tags/big-data/</loc>
+    <lastmod>2024-10-02T10:35:26-04:00</lastmod>
+  </url><url>
+    <loc>https://Xiye-Yang.github.io/tags/forecasting/</loc>
+    <lastmod>2024-10-02T10:35:26-04:00</lastmod>
+  </url><url>
+    <loc>https://Xiye-Yang.github.io/publications/2024-mixedfrequency/</loc>
+    <lastmod>2024-10-02T10:35:26-04:00</lastmod>
+  </url><url>
+    <loc>https://Xiye-Yang.github.io/tags/mixed-frequency/</loc>
+    <lastmod>2024-10-02T10:35:26-04:00</lastmod>
+  </url><url>
+    <loc>https://Xiye-Yang.github.io/tags/</loc>
+    <lastmod>2024-10-02T10:35:26-04:00</lastmod>
+  </url><url>
     <loc>https://Xiye-Yang.github.io/tags/beta/</loc>
     <lastmod>2023-11-18T09:59:49-05:00</lastmod>
   </url><url>
     <loc>https://Xiye-Yang.github.io/tags/projected-pca/</loc>
-    <lastmod>2023-11-18T09:59:49-05:00</lastmod>
-  </url><url>
-    <loc>https://Xiye-Yang.github.io/tags/</loc>
     <lastmod>2023-11-18T09:59:49-05:00</lastmod>
   </url><url>
     <loc>https://Xiye-Yang.github.io/publications/2023-ppca/</loc>
@@ -40,9 +52,6 @@
   </url><url>
     <loc>https://Xiye-Yang.github.io/publications/2021-semict/</loc>
     <lastmod>2023-03-03T22:49:50-05:00</lastmod>
-  </url><url>
-    <loc>https://Xiye-Yang.github.io/tags/forecasting/</loc>
-    <lastmod>2023-03-03T22:53:56-05:00</lastmod>
   </url><url>
     <loc>https://Xiye-Yang.github.io/publications/2021-forecasting/</loc>
     <lastmod>2023-03-03T22:53:56-05:00</lastmod>
