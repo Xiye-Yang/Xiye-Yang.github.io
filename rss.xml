@@ -17,7 +17,7 @@
         
         
         
-        <lastBuildDate>Tue, 09 Dec 2025 09:37:39 -0500</lastBuildDate>
+        <lastBuildDate>Tue, 09 Dec 2025 10:07:32 -0500</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://Xiye-Yang.github.io/rss.xml" />
         
@@ -33,7 +33,7 @@
                     <description>&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
 &lt;p style=&#34;text-align:left;&#34;&gt; We test for the presence of market frictions that induce transitory deviations of observed asset prices from the underlying efficient prices. Our test is based on the joint inference of return covariances across multiple horizons. We demonstrate that a small set of horizons suffices to identify a broad spectrum of frictions, both theoretically and practically. Our method works for high- and low-frequency data under different asymptotic regimes. Extensive simulations show our method outperforms widely used state-of-the-art tests.  Our empirical studies indicate that intraday transaction prices from recent years can be considered effectively friction-free at significantly higher frequencies.&lt;p&gt;
 &lt;br&gt;
-&lt;a href=&#34;https://www.researchgate.net/publication/391977321_Multi-Horizon_Test_for_Market_Frictions&#34;&gt;Published Version&lt;/a&gt;    </description>
+&lt;a href=&#34;https://www.researchgate.net/publication/391977321_Multi-Horizon_Test_for_Market_Frictions&#34;&gt;Working paper version&lt;/a&gt;    </description>
                 
                 
                 
@@ -47,43 +47,25 @@
                                 
                                 
                                 
-                                    <category domain="https://Xiye-Yang.github.io/tags/central-bank-communication/">Central Bank Communication</category>
+                                    <category domain="https://Xiye-Yang.github.io/tags/market-frictions/">Market Frictions</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://Xiye-Yang.github.io/tags/multimodal-machine-learning/">Multimodal Machine Learning</category>
+                                    <category domain="https://Xiye-Yang.github.io/tags/pricing-errors/">Pricing Errors</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://Xiye-Yang.github.io/tags/natural-language-processing/">Natural Language Processing</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://Xiye-Yang.github.io/tags/speech-analysis/">Speech Analysis</category>
+                                    <category domain="https://Xiye-Yang.github.io/tags/multi-horizon-test/">Multi-Horizon Test</category>
                                 
                             
                                 
                                 
                                 
                                     <category domain="https://Xiye-Yang.github.io/tags/high-frequency-data/">High-Frequency Data</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://Xiye-Yang.github.io/tags/volatility/">Volatility</category>
-                                
-                            
-                                
-                                
-                                
-                                    <category domain="https://Xiye-Yang.github.io/tags/tail-risk/">Tail Risk</category>
                                 
                             
                         

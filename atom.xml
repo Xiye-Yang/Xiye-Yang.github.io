@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Xiye Yang</title>
     <subtitle type="html">Xiye Yang&#39;s Homepage</subtitle>
-    <updated>2025-12-09T09:37:39-05:00</updated>
+    <updated>2025-12-09T10:07:32-05:00</updated>
     <id>https://Xiye-Yang.github.io/</id>
     <link rel="alternate" type="text/html" href="https://Xiye-Yang.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://Xiye-Yang.github.io/atom.xml" />
@@ -15,7 +15,7 @@
             <title type="text">Multi-Horizon Test for Market Frictions</title>
             <link rel="alternate" type="text/html" href="https://Xiye-Yang.github.io/publications/2026-tape/" />
             <id>https://Xiye-Yang.github.io/publications/2026-tape/</id>
-            <updated>2025-12-09T08:12:31-05:00</updated>
+            <updated>2025-12-09T09:52:14-05:00</updated>
             <published>2025-12-09T00:00:00&#43;00:00</published>
             <author>
                     <uri>https://Xiye-Yang.github.io/</uri>
@@ -23,12 +23,12 @@
             <summary type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
 &lt;p style=&#34;text-align:left;&#34;&gt; We test for the presence of market frictions that induce transitory deviations of observed asset prices from the underlying efficient prices. Our test is based on the joint inference of return covariances across multiple horizons. We demonstrate that a small set of horizons suffices to identify a broad spectrum of frictions, both theoretically and practically. Our method works for high- and low-frequency data under different asymptotic regimes. Extensive simulations show our method outperforms widely used state-of-the-art tests.  Our empirical studies indicate that intraday transaction prices from recent years can be considered effectively friction-free at significantly higher frequencies.&lt;p&gt;
 &lt;br&gt;
-&lt;a href=&#34;https://www.researchgate.net/publication/391977321_Multi-Horizon_Test_for_Market_Frictions&#34;&gt;Published Version&lt;/a&gt;</summary>
+&lt;a href=&#34;https://www.researchgate.net/publication/391977321_Multi-Horizon_Test_for_Market_Frictions&#34;&gt;Working paper version&lt;/a&gt;</summary>
             
                 <content type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
 &lt;p style=&#34;text-align:left;&#34;&gt; We test for the presence of market frictions that induce transitory deviations of observed asset prices from the underlying efficient prices. Our test is based on the joint inference of return covariances across multiple horizons. We demonstrate that a small set of horizons suffices to identify a broad spectrum of frictions, both theoretically and practically. Our method works for high- and low-frequency data under different asymptotic regimes. Extensive simulations show our method outperforms widely used state-of-the-art tests.  Our empirical studies indicate that intraday transaction prices from recent years can be considered effectively friction-free at significantly higher frequencies.&lt;p&gt;
 &lt;br&gt;
-&lt;a href=&#34;https://www.researchgate.net/publication/391977321_Multi-Horizon_Test_for_Market_Frictions&#34;&gt;Published Version&lt;/a&gt;    </content>
+&lt;a href=&#34;https://www.researchgate.net/publication/391977321_Multi-Horizon_Test_for_Market_Frictions&#34;&gt;Working paper version&lt;/a&gt;    </content>
             
             
             
@@ -42,43 +42,25 @@
                             
                             
                             
-                                <category scheme="https://Xiye-Yang.github.io/tags/central-bank-communication/" term="Central Bank Communication" label="Central Bank Communication" />
+                                <category scheme="https://Xiye-Yang.github.io/tags/market-frictions/" term="Market Frictions" label="Market Frictions" />
                             
                         
                             
                             
                             
-                                <category scheme="https://Xiye-Yang.github.io/tags/multimodal-machine-learning/" term="Multimodal Machine Learning" label="Multimodal Machine Learning" />
+                                <category scheme="https://Xiye-Yang.github.io/tags/pricing-errors/" term="Pricing Errors" label="Pricing Errors" />
                             
                         
                             
                             
                             
-                                <category scheme="https://Xiye-Yang.github.io/tags/natural-language-processing/" term="Natural Language Processing" label="Natural Language Processing" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://Xiye-Yang.github.io/tags/speech-analysis/" term="Speech Analysis" label="Speech Analysis" />
+                                <category scheme="https://Xiye-Yang.github.io/tags/multi-horizon-test/" term="Multi-Horizon Test" label="Multi-Horizon Test" />
                             
                         
                             
                             
                             
                                 <category scheme="https://Xiye-Yang.github.io/tags/high-frequency-data/" term="High-Frequency Data" label="High-Frequency Data" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://Xiye-Yang.github.io/tags/volatility/" term="Volatility" label="Volatility" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://Xiye-Yang.github.io/tags/tail-risk/" term="Tail Risk" label="Tail Risk" />
                             
                         
                     
