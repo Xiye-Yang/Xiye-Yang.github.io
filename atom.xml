@@ -4,16 +4,775 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Xiye Yang</title>
     <subtitle type="html">Xiye Yang&#39;s Homepage</subtitle>
-    <updated>2025-01-25T14:21:07-05:00</updated>
+    <updated>2025-12-09T09:37:39-05:00</updated>
     <id>https://Xiye-Yang.github.io/</id>
     <link rel="alternate" type="text/html" href="https://Xiye-Yang.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://Xiye-Yang.github.io/atom.xml" />
-    <author>
-            <name>Xiye Yang</name>
-            <uri>https://Xiye-Yang.github.io</uri>
-            
-                <email>xiyeyang@econ.rutgers.edu</email>
-            </author>
     
-    <generator uri="https://gohugo.io/" version="0.110.0">Hugo</generator>
+    
+    <generator uri="https://gohugo.io/" version="0.152.2">Hugo</generator>
+        <entry>
+            <title type="text">Multi-Horizon Test for Market Frictions</title>
+            <link rel="alternate" type="text/html" href="https://Xiye-Yang.github.io/publications/2026-tape/" />
+            <id>https://Xiye-Yang.github.io/publications/2026-tape/</id>
+            <updated>2025-12-09T08:12:31-05:00</updated>
+            <published>2025-12-09T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://Xiye-Yang.github.io/</uri>
+                    </author>
+            <summary type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; We test for the presence of market frictions that induce transitory deviations of observed asset prices from the underlying efficient prices. Our test is based on the joint inference of return covariances across multiple horizons. We demonstrate that a small set of horizons suffices to identify a broad spectrum of frictions, both theoretically and practically. Our method works for high- and low-frequency data under different asymptotic regimes. Extensive simulations show our method outperforms widely used state-of-the-art tests.  Our empirical studies indicate that intraday transaction prices from recent years can be considered effectively friction-free at significantly higher frequencies.&lt;p&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://www.researchgate.net/publication/391977321_Multi-Horizon_Test_for_Market_Frictions&#34;&gt;Published Version&lt;/a&gt;</summary>
+            
+                <content type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; We test for the presence of market frictions that induce transitory deviations of observed asset prices from the underlying efficient prices. Our test is based on the joint inference of return covariances across multiple horizons. We demonstrate that a small set of horizons suffices to identify a broad spectrum of frictions, both theoretically and practically. Our method works for high- and low-frequency data under different asymptotic regimes. Extensive simulations show our method outperforms widely used state-of-the-art tests.  Our empirical studies indicate that intraday transaction prices from recent years can be considered effectively friction-free at significantly higher frequencies.&lt;p&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://www.researchgate.net/publication/391977321_Multi-Horizon_Test_for_Market_Frictions&#34;&gt;Published Version&lt;/a&gt;    </content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/central-bank-communication/" term="Central Bank Communication" label="Central Bank Communication" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/multimodal-machine-learning/" term="Multimodal Machine Learning" label="Multimodal Machine Learning" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/natural-language-processing/" term="Natural Language Processing" label="Natural Language Processing" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/speech-analysis/" term="Speech Analysis" label="Speech Analysis" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/high-frequency-data/" term="High-Frequency Data" label="High-Frequency Data" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/volatility/" term="Volatility" label="Volatility" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/tail-risk/" term="Tail Risk" label="Tail Risk" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Mind Your Language - Central Bank Communication, Speech-Implied Forecast Revisions, and High-Frequency Market Reaction</title>
+            <link rel="alternate" type="text/html" href="https://Xiye-Yang.github.io/publications/2025-mindyourlanguage/" />
+            <id>https://Xiye-Yang.github.io/publications/2025-mindyourlanguage/</id>
+            <updated>2025-12-09T08:07:25-05:00</updated>
+            <published>2025-05-01T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://Xiye-Yang.github.io/</uri>
+                    </author>
+            <summary type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; Central bank communication between meetings often moves markets, but researchers have traditionally paid less attention to it. Using a dataset of U.S. Federal Reserve speeches, we develop supervised multimodal natural language processing methods to identify how monetary policy news affect bond and stock market volatility and tail risk through implied changes in forecasts of GDP, inflation, and unemployment. We find that forecast revisions derived from FOMC-member speech can help explain volatility and tail risk in both equity and bond markets. Speeches from Chairs tend to produce larger forecast revisions and unconditionally raise volatility and tail risk, but their economic signals can calm markets (reduce volatility and tail risk). There is some evidence that a speaker’s monetary policy views may affect the impact of implied forecast revisions after conditioning on GDP growth. &lt;p&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1016/j.jeconom.2024.105921&#34;&gt;Published Version&lt;/a&gt;</summary>
+            
+                <content type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; Central bank communication between meetings often moves markets, but researchers have traditionally paid less attention to it. Using a dataset of U.S. Federal Reserve speeches, we develop supervised multimodal natural language processing methods to identify how monetary policy news affect bond and stock market volatility and tail risk through implied changes in forecasts of GDP, inflation, and unemployment. We find that forecast revisions derived from FOMC-member speech can help explain volatility and tail risk in both equity and bond markets. Speeches from Chairs tend to produce larger forecast revisions and unconditionally raise volatility and tail risk, but their economic signals can calm markets (reduce volatility and tail risk). There is some evidence that a speaker’s monetary policy views may affect the impact of implied forecast revisions after conditioning on GDP growth. &lt;p&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1016/j.jeconom.2024.105921&#34;&gt;Published Version&lt;/a&gt;    </content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/central-bank-communication/" term="Central Bank Communication" label="Central Bank Communication" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/multimodal-machine-learning/" term="Multimodal Machine Learning" label="Multimodal Machine Learning" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/natural-language-processing/" term="Natural Language Processing" label="Natural Language Processing" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/speech-analysis/" term="Speech Analysis" label="Speech Analysis" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/high-frequency-data/" term="High-Frequency Data" label="High-Frequency Data" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/volatility/" term="Volatility" label="Volatility" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/tail-risk/" term="Tail Risk" label="Tail Risk" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Macroeconomic and Financial Mixed Frequency Factors in a Big Data Environment</title>
+            <link rel="alternate" type="text/html" href="https://Xiye-Yang.github.io/publications/2024-mixedfrequency/" />
+            <id>https://Xiye-Yang.github.io/publications/2024-mixedfrequency/</id>
+            <updated>2024-10-02T10:35:26-04:00</updated>
+            <published>2024-06-01T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://Xiye-Yang.github.io/</uri>
+                    </author>
+            <summary type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; In this paper, we evaluate the predictive content of 3 new business condition indexes and uncertainty measures that are estimated using high-frequency financial and low-frequency macroeconomic time series data. More specifically, our measures are defined as latent factors that are extracted from a state space model that includes multiple different frequencies of non-parametrically estimated components of quadratic variation, as well as mixed frequency macroeconomic variables. When forecasting growth rates of various monthly financial and macroeconomic variables, use of our new mixed frequency factors is shown to result in significant improvement in predictive performance, relative to a number of benchmark models. Additionally, when used to forecast corporate yields, predictive gains associated with the use of our measures are shown to be monotonically increasing, as one moves from predicting higher to lower rated bonds. This is consistent with the existence of a natural pricing channel wherein financial risk (as measured using our volatility factors) contains more predictive information for lower grade bonds. We also find that a variety of extant risk factors including the Aruoba et al. [(2009a). Real-time measurement of business conditions. Journal of Business &amp; Economic Statistics, 27(4), 417427] business conditions index also contain marginal predictive content for the variables that we examine, although their inclusion does not reduce the usefulness of our measures. &lt;p&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1093/jrsssc/qlae007&#34;&gt;Published Version&lt;/a&gt;</summary>
+            
+                <content type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; In this paper, we evaluate the predictive content of 3 new business condition indexes and uncertainty measures that are estimated using high-frequency financial and low-frequency macroeconomic time series data. More specifically, our measures are defined as latent factors that are extracted from a state space model that includes multiple different frequencies of non-parametrically estimated components of quadratic variation, as well as mixed frequency macroeconomic variables. When forecasting growth rates of various monthly financial and macroeconomic variables, use of our new mixed frequency factors is shown to result in significant improvement in predictive performance, relative to a number of benchmark models. Additionally, when used to forecast corporate yields, predictive gains associated with the use of our measures are shown to be monotonically increasing, as one moves from predicting higher to lower rated bonds. This is consistent with the existence of a natural pricing channel wherein financial risk (as measured using our volatility factors) contains more predictive information for lower grade bonds. We also find that a variety of extant risk factors including the Aruoba et al. [(2009a). Real-time measurement of business conditions. Journal of Business &amp; Economic Statistics, 27(4), 417427] business conditions index also contain marginal predictive content for the variables that we examine, although their inclusion does not reduce the usefulness of our measures. &lt;p&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1093/jrsssc/qlae007&#34;&gt;Published Version&lt;/a&gt;    </content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/forecasting/" term="Forecasting" label="Forecasting" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/mixed-frequency/" term="Mixed Frequency" label="Mixed Frequency" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/big-data/" term="Big Data" label="Big Data" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Uniform Predictive Inference for Factor Models with Instrumental and Idiosyncratic Betas</title>
+            <link rel="alternate" type="text/html" href="https://Xiye-Yang.github.io/publications/2023-ppca/" />
+            <id>https://Xiye-Yang.github.io/publications/2023-ppca/</id>
+            <updated>2023-11-18T09:59:49-05:00</updated>
+            <published>2023-11-15T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://Xiye-Yang.github.io/</uri>
+                    </author>
+            <summary type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; This paper investigates the impact of allowing for characteristic-based time-varying factor betas on the diffusion-index type forecasts. The factor beta consists of two distinct components: the “instrumental beta” is a function of some observable characteristics, while the “idiosyncratic beta” captures more volatile residual movements. To estimate these characteristic-based time-varying betas and the corresponding factors, we apply the projected principal component analysis (P-PCA) method on high-frequency returns data. The primary advantage of this method is that it refines the estimators of latent factors, which shall be used in the forecasting models. We show that various leading components of the conditional mean forecast error are all asymptotically normal and pairwise independent. Extensive simulation studies show the good finite-sample properties of the P-PCA estimators and demonstrate the advantage of the P-PCA method relative to the classic PCA method in forecasting. In our empirical experiments of volatility prediction, we find that the factor-augmented model associated with the P-PCA method is more parsimonious and achieves better performance for a wide variety of target assets. We also find evidence on different levels of variation over time in the idiosyncratic beta, which necessitates our uniform predictive inference procedure. &lt;p&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1016/j.jeconom.2022.11.007&#34;&gt;Published Version&lt;/a&gt;</summary>
+            
+                <content type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; This paper investigates the impact of allowing for characteristic-based time-varying factor betas on the diffusion-index type forecasts. The factor beta consists of two distinct components: the “instrumental beta” is a function of some observable characteristics, while the “idiosyncratic beta” captures more volatile residual movements. To estimate these characteristic-based time-varying betas and the corresponding factors, we apply the projected principal component analysis (P-PCA) method on high-frequency returns data. The primary advantage of this method is that it refines the estimators of latent factors, which shall be used in the forecasting models. We show that various leading components of the conditional mean forecast error are all asymptotically normal and pairwise independent. Extensive simulation studies show the good finite-sample properties of the P-PCA estimators and demonstrate the advantage of the P-PCA method relative to the classic PCA method in forecasting. In our empirical experiments of volatility prediction, we find that the factor-augmented model associated with the P-PCA method is more parsimonious and achieves better performance for a wide variety of target assets. We also find evidence on different levels of variation over time in the idiosyncratic beta, which necessitates our uniform predictive inference procedure. &lt;p&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1016/j.jeconom.2022.11.007&#34;&gt;Published Version&lt;/a&gt;</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/volatility-forecasting/" term="Volatility Forecasting" label="Volatility Forecasting" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/beta/" term="Beta" label="Beta" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/projected-pca/" term="Projected PCA" label="Projected PCA" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">News Arrival, Time-Varying Jump Intensity, and Realized Volatility: Conditional Testing Approach</title>
+            <link rel="alternate" type="text/html" href="https://Xiye-Yang.github.io/publications/2023-newsarrival/" />
+            <id>https://Xiye-Yang.github.io/publications/2023-newsarrival/</id>
+            <updated>2023-11-18T09:59:38-05:00</updated>
+            <published>2023-09-01T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://Xiye-Yang.github.io/</uri>
+                    </author>
+            <summary type="html">&lt;br&gt;
+&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt;
+This article proposes more efficient estimators for the leverage effect than the existing ones. The idea is to allow for nonuniform kernel functions in the spot volatility estimates or the aggregated returns. This finding highlights a critical difference between the leverage effect and integrated volatility functionals, where the uniform kernel is optimal. Another distinction between these two cases is that the overlapping estimators of the leverage effect are more efficient than the nonoverlapping ones. We offer two perspectives to explain these differences: one is based on the “effective kernel” and the other on the correlation structure of the nonoverlapping estimators. The simulation study shows that the proposed estimator with a nonuniform kernel substantially increases the estimation efficiency and testing power relative to the existing ones. 
+&lt;/p&gt;</summary>
+            
+                <content type="html">&lt;br&gt;
+&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt;
+This article proposes more efficient estimators for the leverage effect than the existing ones. The idea is to allow for nonuniform kernel functions in the spot volatility estimates or the aggregated returns. This finding highlights a critical difference between the leverage effect and integrated volatility functionals, where the uniform kernel is optimal. Another distinction between these two cases is that the overlapping estimators of the leverage effect are more efficient than the nonoverlapping ones. We offer two perspectives to explain these differences: one is based on the “effective kernel” and the other on the correlation structure of the nonoverlapping estimators. The simulation study shows that the proposed estimator with a nonuniform kernel substantially increases the estimation efficiency and testing power relative to the existing ones. 
+&lt;/p&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1093/jjfinec/nbac015&#34;&gt;Published Version&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4118291&#34;&gt;Working Paper Version&lt;/a&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/jump-intensity/" term="Jump Intensity" label="Jump Intensity" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Estimation of Leverage Effect: Kernel Function and Efficiency</title>
+            <link rel="alternate" type="text/html" href="https://Xiye-Yang.github.io/publications/2023-leveragekernel/" />
+            <id>https://Xiye-Yang.github.io/publications/2023-leveragekernel/</id>
+            <updated>2023-06-14T12:04:28-04:00</updated>
+            <published>2023-06-13T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://Xiye-Yang.github.io/</uri>
+                    </author>
+            <summary type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; 
+	This paper introduces new econometric tests to identify stochastic intensity jumps in high-frequency data. Our approach exploits the behavior of a time-varying stochastic intensity and allows us to assess how intensely stock market reacts to news. We describe the asymptotic properties of our test statistics, derive the associated central limit theorem and show in simulations that the tests have good size and reasonable power in finite-sample cases. Implementing our testing procedures on the S&amp;P 500 exchange-traded fund data, we find strong evidence for the presence of intensity jumps surrounding the scheduled Federal Open Market Committee (FOMC) policy announcements. Intensity jumps occur very frequently, trigger sharp increases in realized volatility and arrive when differences in opinion among market participants are large at times of FOMC press releases. Unlike intensity jumps, volatility jumps fail to explain the variation in news-induced realized volatility. 
+&lt;/p&gt;</summary>
+            
+                <content type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; 
+	This paper introduces new econometric tests to identify stochastic intensity jumps in high-frequency data. Our approach exploits the behavior of a time-varying stochastic intensity and allows us to assess how intensely stock market reacts to news. We describe the asymptotic properties of our test statistics, derive the associated central limit theorem and show in simulations that the tests have good size and reasonable power in finite-sample cases. Implementing our testing procedures on the S&amp;P 500 exchange-traded fund data, we find strong evidence for the presence of intensity jumps surrounding the scheduled Federal Open Market Committee (FOMC) policy announcements. Intensity jumps occur very frequently, trigger sharp increases in realized volatility and arrive when differences in opinion among market participants are large at times of FOMC press releases. Unlike intensity jumps, volatility jumps fail to explain the variation in news-induced realized volatility. 
+&lt;/p&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1080/07350015.2022.2097910&#34;&gt;Published Version&lt;/a&gt;</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/leverage-effect/" term="Leverage Effect" label="Leverage Effect" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Asymptotic Properties of Correlation-Based Principal Component Analysis</title>
+            <link rel="alternate" type="text/html" href="https://Xiye-Yang.github.io/publications/2022-pca/" />
+            <id>https://Xiye-Yang.github.io/publications/2022-pca/</id>
+            <updated>2023-03-03T22:52:29-05:00</updated>
+            <published>2022-07-01T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://Xiye-Yang.github.io/</uri>
+                    </author>
+            <summary type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; It is a common practice to conduct principal component analysis (PCA) using standardized data, which is equivalent to applying PCA to the correlation matrix rather than the covariance matrix. Yet little research has been done about such differences in the context of high frequency data. This paper bridges this gap. We derive the analytical forms of the asymptotic biases and variances for the estimators of the integrated eigenvalues and eigenvectors. Furthermore, we propose a novel jackknife-type estimator of the asymptotic variance of the integrated volatility functional estimator. This new variance estimator shows much better finite sample performances compared to other existing ones. This paper also proposes several statistical tests for some commonly tested hypotheses in the literature. Simulation results show that one will get misleading results if one uses the analytical results of the covariance case when applying PCA on the correlation matrix. &lt;p&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1016/j.jeconom.2021.08.003&#34;&gt;Published Version&lt;/a&gt;</summary>
+            
+                <content type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; It is a common practice to conduct principal component analysis (PCA) using standardized data, which is equivalent to applying PCA to the correlation matrix rather than the covariance matrix. Yet little research has been done about such differences in the context of high frequency data. This paper bridges this gap. We derive the analytical forms of the asymptotic biases and variances for the estimators of the integrated eigenvalues and eigenvectors. Furthermore, we propose a novel jackknife-type estimator of the asymptotic variance of the integrated volatility functional estimator. This new variance estimator shows much better finite sample performances compared to other existing ones. This paper also proposes several statistical tests for some commonly tested hypotheses in the literature. Simulation results show that one will get misleading results if one uses the analytical results of the covariance case when applying PCA on the correlation matrix. &lt;p&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1016/j.jeconom.2021.08.003&#34;&gt;Published Version&lt;/a&gt;</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/integrated-volatility-functionals/" term="Integrated Volatility Functionals" label="Integrated Volatility Functionals" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/pca/" term="PCA" label="PCA" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Semiparametric Estimation in Continuous-Time: Asymptotics for Integrated Volatility Functionals With Small and Large Bandwidths</title>
+            <link rel="alternate" type="text/html" href="https://Xiye-Yang.github.io/publications/2021-semict/" />
+            <id>https://Xiye-Yang.github.io/publications/2021-semict/</id>
+            <updated>2023-03-03T22:49:50-05:00</updated>
+            <published>2021-07-01T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://Xiye-Yang.github.io/</uri>
+                    </author>
+            <summary type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; 
+	This article studies the estimation of integrated volatility functionals, which is a semiparametric two-step estimation problem in the nonstationary continuous-time setting. We generalize the asymptotic normality results of Jacod and Rosenbaum to a wider range of bandwidths. Moreover, we employ matrix calculus to obtain a new analytical bias correction and variance estimation method. The proposed method gives more succinct expressions than the element-by-element analytical method of the above cited article. In addition, it has a computational advantage over the jackknife/simulation-based method proposed by Li, Liu, and Xiu. Comprehensive simulation studies demonstrate that our method has good finite sample performance for a variety of volatility functionals, including quadraticity, determinant, continuous beta, and eigenvalues. 
+&lt;/p&gt;</summary>
+            
+                <content type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; 
+	This article studies the estimation of integrated volatility functionals, which is a semiparametric two-step estimation problem in the nonstationary continuous-time setting. We generalize the asymptotic normality results of Jacod and Rosenbaum to a wider range of bandwidths. Moreover, we employ matrix calculus to obtain a new analytical bias correction and variance estimation method. The proposed method gives more succinct expressions than the element-by-element analytical method of the above cited article. In addition, it has a computational advantage over the jackknife/simulation-based method proposed by Li, Liu, and Xiu. Comprehensive simulation studies demonstrate that our method has good finite sample performance for a variety of volatility functionals, including quadraticity, determinant, continuous beta, and eigenvalues. 
+&lt;/p&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/07350015.2020.1733583&#34;&gt;Published Version&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3243457&#34;&gt;Working Paper Version&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1M3457EWYqRJ0aMTxOXAa8t4e9NXCUDNo/view?usp=sharing&#34;&gt;Supplement&lt;/a&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/integrated-volatility-functionals/" term="Integrated Volatility Functionals" label="Integrated Volatility Functionals" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Forecasting Volatility Using Double Shrinkage Methods</title>
+            <link rel="alternate" type="text/html" href="https://Xiye-Yang.github.io/publications/2021-forecasting/" />
+            <id>https://Xiye-Yang.github.io/publications/2021-forecasting/</id>
+            <updated>2023-03-03T22:53:56-05:00</updated>
+            <published>2021-06-01T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://Xiye-Yang.github.io/</uri>
+                    </author>
+            <summary type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; In this paper, we propose and evaluate a shrinkage based methodology that is designed to improve the accuracy of volatility forecasts. Our approach is based on a two-step procedure for extracting latent common volatility factors from a large dimensional and high-frequency dataset. In the first step, we apply either least absolute shrinkage operator (LASSO) or the elastic net (EN) shrinkage on estimated integrated volatilities, in order to select a subset of assets that are informative about the target asset. In the second step, we utilize (sparse) principal component analysis on the selected assets, in order to estimate latent return factors, which are in turn used to construct latent volatility factors. Our two-step method is found to yield more accurate volatility predictions than a variety of alternative models based on approaches such as direct application of (S)PCA and direct application of LASSO or EN shrinkage, when comparing out-of-sample R-square
+s and mean absolute forecasting errors, and when implementing predictive accuracy tests. Additionally model confidence sets are found to contain models solely based on our two-step approach. These forecasting gains are found to be robust to the use of original or log-scale realized volatility models, different data sampling frequencies, and different forecasting sub-periods. &lt;p&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1016/j.jempfin.2021.01.007&#34;&gt;Published Version&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3440326&#34;&gt;Working Paper Version&lt;/a&gt;&lt;/p&gt;</summary>
+            
+                <content type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; In this paper, we propose and evaluate a shrinkage based methodology that is designed to improve the accuracy of volatility forecasts. Our approach is based on a two-step procedure for extracting latent common volatility factors from a large dimensional and high-frequency dataset. In the first step, we apply either least absolute shrinkage operator (LASSO) or the elastic net (EN) shrinkage on estimated integrated volatilities, in order to select a subset of assets that are informative about the target asset. In the second step, we utilize (sparse) principal component analysis on the selected assets, in order to estimate latent return factors, which are in turn used to construct latent volatility factors. Our two-step method is found to yield more accurate volatility predictions than a variety of alternative models based on approaches such as direct application of (S)PCA and direct application of LASSO or EN shrinkage, when comparing out-of-sample R-square
+s and mean absolute forecasting errors, and when implementing predictive accuracy tests. Additionally model confidence sets are found to contain models solely based on our two-step approach. These forecasting gains are found to be robust to the use of original or log-scale realized volatility models, different data sampling frequencies, and different forecasting sub-periods. &lt;p&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1016/j.jempfin.2021.01.007&#34;&gt;Published Version&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3440326&#34;&gt;Working Paper Version&lt;/a&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/forecasting/" term="Forecasting" label="Forecasting" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/volatlity/" term="Volatlity" label="Volatlity" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Forecasting Volatility Using Double Shrinkage Methods</title>
+            <link rel="alternate" type="text/html" href="https://Xiye-Yang.github.io/publications/2020-weiqi/" />
+            <id>https://Xiye-Yang.github.io/publications/2020-weiqi/</id>
+            <updated>2023-03-03T22:51:35-05:00</updated>
+            <published>2020-08-01T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://Xiye-Yang.github.io/</uri>
+                    </author>
+            <summary type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; 
+	In this paper, we propose and evaluate a shrinkage based methodology that is designed to improve the accuracy of volatility forecasts. Our approach is based on a two-step procedure for extracting latent common volatility factors from a large dimensional and high-frequency dataset. In the first step, we apply either least absolute shrinkage operator (LASSO) or the elastic net (EN) shrinkage on estimated integrated volatilities, in order to select a subset of assets that are informative about the target asset. In the second step, we utilize (sparse) principal component analysis on the selected assets, in order to estimate latent return factors, which are in turn used to construct latent volatility factors. Our two-step method is found to yield more accurate volatility predictions than a variety of alternative models based on approaches such as direct application of (S)PCA and direct application of LASSO or EN shrinkage, when comparing out-of-sample R-squares
+	and mean absolute forecasting errors, and when implementing predictive accuracy tests. Additionally model confidence sets are found to contain models solely based on our two-step approach. These forecasting gains are found to be robust to the use of original or log-scale realized volatility models, different data sampling frequencies, and different forecasting sub-periods. 
+&lt;/p&gt;</summary>
+            
+                <content type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; 
+	In this paper, we propose and evaluate a shrinkage based methodology that is designed to improve the accuracy of volatility forecasts. Our approach is based on a two-step procedure for extracting latent common volatility factors from a large dimensional and high-frequency dataset. In the first step, we apply either least absolute shrinkage operator (LASSO) or the elastic net (EN) shrinkage on estimated integrated volatilities, in order to select a subset of assets that are informative about the target asset. In the second step, we utilize (sparse) principal component analysis on the selected assets, in order to estimate latent return factors, which are in turn used to construct latent volatility factors. Our two-step method is found to yield more accurate volatility predictions than a variety of alternative models based on approaches such as direct application of (S)PCA and direct application of LASSO or EN shrinkage, when comparing out-of-sample R-squares
+	and mean absolute forecasting errors, and when implementing predictive accuracy tests. Additionally model confidence sets are found to contain models solely based on our two-step approach. These forecasting gains are found to be robust to the use of original or log-scale realized volatility models, different data sampling frequencies, and different forecasting sub-periods. 
+&lt;/p&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1002/jae.2768&#34;&gt;Published Version&lt;/a&gt;</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/forecasting/" term="Forecasting" label="Forecasting" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/interest-rates/" term="Interest Rates" label="Interest Rates" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Time-Invariant Restrictions of Volatility Functionals: Efficient Estimation and Specification Tests</title>
+            <link rel="alternate" type="text/html" href="https://Xiye-Yang.github.io/publications/2020-volspectest/" />
+            <id>https://Xiye-Yang.github.io/publications/2020-volspectest/</id>
+            <updated>2023-03-03T22:47:52-05:00</updated>
+            <published>2020-04-01T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://Xiye-Yang.github.io/</uri>
+                    </author>
+            <summary type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; 
+	This article studies the estimation of integrated volatility functionals, which is a semiparametric two-step estimation problem in the nonstationary continuous-time setting. We generalize the asymptotic normality results of Jacod and Rosenbaum to a wider range of bandwidths. Moreover, we employ matrix calculus to obtain a new analytical bias correction and variance estimation method. The proposed method gives more succinct expressions than the element-by-element analytical method of the above cited article. In addition, it has a computational advantage over the jackknife/simulation-based method proposed by Li, Liu, and Xiu. Comprehensive simulation studies demonstrate that our method has good finite sample performance for a variety of volatility functionals, including quadraticity, determinant, continuous beta, and eigenvalues. 
+&lt;/p&gt;</summary>
+            
+                <content type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; 
+	This article studies the estimation of integrated volatility functionals, which is a semiparametric two-step estimation problem in the nonstationary continuous-time setting. We generalize the asymptotic normality results of Jacod and Rosenbaum to a wider range of bandwidths. Moreover, we employ matrix calculus to obtain a new analytical bias correction and variance estimation method. The proposed method gives more succinct expressions than the element-by-element analytical method of the above cited article. In addition, it has a computational advantage over the jackknife/simulation-based method proposed by Li, Liu, and Xiu. Comprehensive simulation studies demonstrate that our method has good finite sample performance for a variety of volatility functionals, including quadraticity, determinant, continuous beta, and eigenvalues. 
+&lt;/p&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1016/j.jeconom.2019.10.003&#34;&gt;Published Version&lt;/a&gt;</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/integrated-volatility-functionals/" term="Integrated Volatility Functionals" label="Integrated Volatility Functionals" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/specification-test/" term="Specification Test" label="Specification Test" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/efficiency/" term="Efficiency" label="Efficiency" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Financial Econometrics and Big Data: A Survey of Volatility Estimators and Tests for the Presence of Jumps and Co-Jumps</title>
+            <link rel="alternate" type="text/html" href="https://Xiye-Yang.github.io/publications/2020-bookchapter/" />
+            <id>https://Xiye-Yang.github.io/publications/2020-bookchapter/</id>
+            <updated>2023-03-03T22:48:48-05:00</updated>
+            <published>2020-01-16T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://Xiye-Yang.github.io/</uri>
+                    </author>
+            <summary type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; 
+	In recent years, the field of financial econometrics has seen tremendous gains in the amount of data available for use in modeling and prediction. Much of this data is very high frequency, and even “tick-based,” and hence falls into the category of what might be termed “big data.” The availability of such data, particularly that available at high frequency on an intra-day basis, has spurred numerous theoretical advances in the areas of volatility/risk estimation and modeling. In this chapter, we discuss key such advances, beginning with a survey of numerous nonparametric estimators of integrated volatility. Thereafter, we discuss testing for jumps using said estimators. Finally, we discuss recent advances in testing for co-jumps. Such co-jumps are important for a number of reasons. For example, the presence of co-jumps, in contexts where data has been partitioned into continuous and discontinuous (jump) components, is indicative of (near) instantaneous transmission of financial shocks across different sectors and companies in the markets; and hence represents a type of systemic risk. Additionally, the presence of co-jumps across sectors, say, suggests that if jumps can be predicted in one sector, then such predictions may have useful information for modeling variables such as returns and volatility in another sector. As an illustration of the methods discussed in this chapter, we carry out an empirical analysis of DOW and NASDAQ stock price returns.
+&lt;/p&gt;</summary>
+            
+                <content type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; 
+	In recent years, the field of financial econometrics has seen tremendous gains in the amount of data available for use in modeling and prediction. Much of this data is very high frequency, and even “tick-based,” and hence falls into the category of what might be termed “big data.” The availability of such data, particularly that available at high frequency on an intra-day basis, has spurred numerous theoretical advances in the areas of volatility/risk estimation and modeling. In this chapter, we discuss key such advances, beginning with a survey of numerous nonparametric estimators of integrated volatility. Thereafter, we discuss testing for jumps using said estimators. Finally, we discuss recent advances in testing for co-jumps. Such co-jumps are important for a number of reasons. For example, the presence of co-jumps, in contexts where data has been partitioned into continuous and discontinuous (jump) components, is indicative of (near) instantaneous transmission of financial shocks across different sectors and companies in the markets; and hence represents a type of systemic risk. Additionally, the presence of co-jumps across sectors, say, suggests that if jumps can be predicted in one sector, then such predictions may have useful information for modeling variables such as returns and volatility in another sector. As an illustration of the methods discussed in this chapter, we carry out an empirical analysis of DOW and NASDAQ stock price returns.
+&lt;/p&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1016/bs.host.2018.11.006&#34;&gt;Published Version&lt;/a&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/volatlity/" term="Volatlity" label="Volatlity" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/jump/" term="Jump" label="Jump" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/co-jump/" term="Co-Jump" label="Co-Jump" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Testing for Self-Excitation in Jumps</title>
+            <link rel="alternate" type="text/html" href="https://Xiye-Yang.github.io/publications/2018-selfex/" />
+            <id>https://Xiye-Yang.github.io/publications/2018-selfex/</id>
+            <updated>2023-03-03T22:48:43-05:00</updated>
+            <published>2018-04-01T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://Xiye-Yang.github.io/</uri>
+                    </author>
+            <summary type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; 
+	This paper extends the notion of self-excitation in jumps to a rich class of continuous time semimartingale models, proposes statistical tests to detect its presence in a discretely observed sample path at high frequency, and derives the tests’ asymptotic properties. Our statistical setting is semiparametric: except for necessary parametric assumptions on the jump size measure, the other components of the semimartingale model are left essentially unrestricted. We analyze the finite sample performance of our tests in Monte Carlo simulations.
+&lt;/p&gt;</summary>
+            
+                <content type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; 
+	This paper extends the notion of self-excitation in jumps to a rich class of continuous time semimartingale models, proposes statistical tests to detect its presence in a discretely observed sample path at high frequency, and derives the tests’ asymptotic properties. Our statistical setting is semiparametric: except for necessary parametric assumptions on the jump size measure, the other components of the semimartingale model are left essentially unrestricted. We analyze the finite sample performance of our tests in Monte Carlo simulations.
+&lt;/p&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1016/j.jeconom.2017.11.007&#34;&gt;Published Version&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/ciypn2ryv667i5y/BLY-TSE.pdf?dl=0&#34;&gt;Working Paper Version&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/8zofh76wezkrlab/BLY-TSE-App.pdf?dl=0&#34;&gt;Supplement&lt;/a&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/jump-intensity/" term="Jump Intensity" label="Jump Intensity" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Testing for Mutually Exciting Jumps and Financial Flights in High Frequency Data</title>
+            <link rel="alternate" type="text/html" href="https://Xiye-Yang.github.io/publications/2018-mutalex/" />
+            <id>https://Xiye-Yang.github.io/publications/2018-mutalex/</id>
+            <updated>2023-03-04T07:26:59-05:00</updated>
+            <published>2018-01-01T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://Xiye-Yang.github.io/</uri>
+                    </author>
+            <summary type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; 
+	We propose a new nonparametric test to identify mutually exciting jumps in high frequency data. We derive the asymptotic properties of the test statistics and show that the tests have good size and reasonable power in finite sample cases. Using our mutual excitation tests, we empirically characterize the dynamics of financial flights in forms of flight-to-safety and flight-to-quality. The results indicate that mutually exciting jumps and risk-off trades mostly occur in periods of high market stress. Flight-to-safety episodes (from stocks to gold) arrive more frequently than do flight-to-quality spells (from stocks to bonds). We further find evidence that reverse cross-excitations or seeking-return-strategies exhibit significant asymmetry over the business cycle, reflecting the fact that investors appear to be selling gold – rather than bonds – to invest in stocks during good market conditions.
+&lt;/p&gt;</summary>
+            
+                <content type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; 
+	We propose a new nonparametric test to identify mutually exciting jumps in high frequency data. We derive the asymptotic properties of the test statistics and show that the tests have good size and reasonable power in finite sample cases. Using our mutual excitation tests, we empirically characterize the dynamics of financial flights in forms of flight-to-safety and flight-to-quality. The results indicate that mutually exciting jumps and risk-off trades mostly occur in periods of high market stress. Flight-to-safety episodes (from stocks to gold) arrive more frequently than do flight-to-quality spells (from stocks to bonds). We further find evidence that reverse cross-excitations or seeking-return-strategies exhibit significant asymmetry over the business cycle, reflecting the fact that investors appear to be selling gold – rather than bonds – to invest in stocks during good market conditions.
+&lt;/p&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1016/j.jeconom.2017.09.002&#34;&gt;Published Version&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2787304&#34;&gt;Working Paper Version&lt;/a&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/jump-intensity/" term="Jump Intensity" label="Jump Intensity" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Estimation of the Continuous and Discontinuous Leverage Effects</title>
+            <link rel="alternate" type="text/html" href="https://Xiye-Yang.github.io/publications/2017-leverage/" />
+            <id>https://Xiye-Yang.github.io/publications/2017-leverage/</id>
+            <updated>2023-03-04T07:26:53-05:00</updated>
+            <published>2017-08-01T00:00:00&#43;00:00</published>
+            <author>
+                    <uri>https://Xiye-Yang.github.io/</uri>
+                    </author>
+            <summary type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; 
+	This article examines the leverage effect, or the generally negative covariation between asset returns and their changes in volatility, under a general setup that allows the log-price and volatility processes to be Itô semimartingales. We decompose the leverage effect into continuous and discontinuous parts and develop statistical methods to estimate them. We establish the asymptotic properties of these estimators. We also extend our methods and results (for the continuous leverage) to the situation where there is market microstructure noise in the observed returns. We show in Monte Carlo simulations that our estimators have good finite sample performance. When applying our methods to real data, our empirical results provide convincing evidence of the presence of the two leverage effects, especially the discontinuous one.
+&lt;/p&gt;</summary>
+            
+                <content type="html">&lt;p&gt;&lt;b&gt; Abstract &lt;/b&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align:left;&#34;&gt; 
+	This article examines the leverage effect, or the generally negative covariation between asset returns and their changes in volatility, under a general setup that allows the log-price and volatility processes to be Itô semimartingales. We decompose the leverage effect into continuous and discontinuous parts and develop statistical methods to estimate them. We establish the asymptotic properties of these estimators. We also extend our methods and results (for the continuous leverage) to the situation where there is market microstructure noise in the observed returns. We show in Monte Carlo simulations that our estimators have good finite sample performance. When applying our methods to real data, our empirical results provide convincing evidence of the presence of the two leverage effects, especially the discontinuous one.
+&lt;/p&gt;
+&lt;br&gt;
+&lt;a href=&#34;http://dx.doi.org/10.1080/01621459.2016.1240082&#34; &gt;Published Version&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2523677&#34;&gt;Working Paper Version&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.tandfonline.com/doi/suppl/10.1080/01621459.2016.1240082&#34;&gt;Supplement&lt;/a&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://Xiye-Yang.github.io/tags/leverage-effect/" term="Leverage Effect" label="Leverage Effect" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
 </feed>
